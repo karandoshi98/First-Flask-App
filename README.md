@@ -14,3 +14,20 @@ How to run -
     * Debugger PIN: 144-499-178
     * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 6. Now copy the http link i.e your localhost and paste it in your favourite browser and hurray, here's your first flask app.
+
+Screenshots of the project are as follows - 
+1. Base page
+
+![](Flask/Flask_base.png)
+
+2. Add task page
+
+![](Flask/Flask_add.png)
+
+3. Delete Task Page
+
+![](Flask/Flask_delete.png)
+
+4. Edit Task Page
+
+![](Flask/Flask_edit.png)
